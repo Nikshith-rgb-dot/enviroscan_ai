@@ -1,8 +1,8 @@
 streamlit
-joblib
-scikit-learn
 pandas
 numpy
+joblib
 folium
 streamlit-folium
 matplotlib
+scikit-learn
